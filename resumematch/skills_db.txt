@@ -1,0 +1,17 @@
+python
+machine learning
+ml
+deep learning
+nlp
+data analysis
+data analytics
+pandas
+numpy
+sql
+mysql
+postgresql
+excel
+power bi
+tableau
+statistics
+data visualization

@@ -1,0 +1,4 @@
+We are looking for a Data Scientist with experience in Python, SQL,
+Machine Learning, Data Analysis, and Tableau. Knowledge of Deep Learning,
+NLP, and Power BI is a plus. Candidates should be comfortable working with
+data and building predictive models.
